@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0e75b6&width=500&lines=Hello%2C+I'm+Abhishek+Dwivedi;Product+Engineer;Backend+Developer;AI%2FML+Enthusiast" alt="Abhishek Dwivedi"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0e75b6&width=500&lines=Hello%2C+I'm+Abhishek+Dwivedi;Product+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast" alt="Abhishek Dwivedi"/>
 </a>
 
 <div>
@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working as a **Product Engineer @ TCS**
 - 🌱 I’m currently focused on **Advanced Distributed Systems, Event-Driven Architecture (Kafka), & Generative AI**
-- 💬 Ask me about **Java 17, Spring Boot, Microservices, and LLM Fine-Tuning**
+- 💬 Ask me about **Java 17, Spring Boot, Microservices,Rest API, System Design, Kafka and LLM Fine-Tuning**
 - 📫 How to reach me: **[abhishekdwivedi94443@gmail.com](mailto:abhishekdwivedi94443@gmail.com)**
 
 ### 💻 Main Skills & Tools
@@ -25,7 +25,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek94443&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /></a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek94443&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide=contribs" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek94443&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek94443&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
