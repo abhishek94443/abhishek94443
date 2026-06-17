@@ -9,18 +9,25 @@
 </div>
 
 ### 🚀 About Me
-- 🔭 I’m currently working as a **Product Engineer @ TCS BaNCS (PostFinance, Switzerland)**
+- 🔭 I’m currently working as a **Product Engineer @ TCS**
 - 🌱 I’m currently focused on **Advanced Distributed Systems, Event-Driven Architecture (Kafka), & Generative AI**
 - 💬 Ask me about **Java 17, Spring Boot, Microservices, and LLM Fine-Tuning**
 - 📫 How to reach me: **[abhishekdwivedi94443@gmail.com](mailto:abhishekdwivedi94443@gmail.com)**
 
 ### 💻 Main Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,kafka,redis,docker,kubernetes,aws,git,maven,nextjs,angular,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,ts,cpp,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,aws,jenkins,githubactions,nextjs,react,angular,fastapi,tailwind)](https://skillicons.dev)
 
-### 📈 GitHub Stats
+**AI & Specialized Tech:**  
+`Prompt Engineering` `LLM Fine-Tuning & RLHF` `RAG` `Agentic AI Workflows` `LangChain` `Spring AI` `OpenAI API` `Hugging Face` `Pinecone` `Chroma DB`
+
+### 🏆 Achievements & GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek94443&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="150" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek94443&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /></a>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek94443&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek94443&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek94443&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 ### 🔗 Connect with me!
@@ -38,3 +45,4 @@
 > <a href="https://drive.google.com/file/d/1VK-LepQ3OvLX5Q9liF8dTvKUAe2oldgf/view?usp=sharing" target="_blank">Download my resume</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" alt="footer"/>
+
