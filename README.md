@@ -25,9 +25,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek94443&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /></a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek94443&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek94443&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide=contribs" alt="GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek94443&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek94443&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 ### 🔗 Connect with me!
